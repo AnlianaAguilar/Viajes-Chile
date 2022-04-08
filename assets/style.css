@@ -1,6 +1,11 @@
 *{
     color: white;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
 .color_turquesa{
     background: #20c1dd
 }
