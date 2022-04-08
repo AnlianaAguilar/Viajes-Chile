@@ -7,6 +7,11 @@ html {
     scroll-behavior: smooth;
 }
 
+.carousel-item img{
+    height: 1706px;
+    width: 100%;
+}
+
 .color_turquesa{
     background: #20c1dd
 }
